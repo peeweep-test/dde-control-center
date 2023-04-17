@@ -20,7 +20,7 @@ concurrency:
 
 jobs:
   deploydocs:
-    uses: linuxdeepin/.github/.github/workflows/deploy-dev-doc.yml@master
+    uses: hudeng-go/.github-1/.github/workflows/deploy-dev-doc.yml@master
     with:
       ref: ${{ inputs.tag }}
     secrets:
