@@ -1,3 +1,14 @@
+dde-control-center (6.1.114) unstable; urgency=medium
+
+  * feat: add docs build
+  * chore: Sync by
+    https://github.com/linuxdeepin/.github/commit/2e2bf2fdb33b6945772d37
+    6fd1752e56eeb81c33
+  * use test yml
+  * ci(test): enable coordinated group releases
+
+ -- MyLeeJiEun <70250755+MyLeeJiEun@users.noreply.github.com>  Thu, 05 Nov 2026 11:49:42 +0800
+
 dde-control-center (6.0.13) unstable; urgency=medium
 
   * Support Internal Channel
