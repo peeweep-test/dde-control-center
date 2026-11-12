@@ -2,7 +2,7 @@ name: Verify group version
 
 on:
   pull_request_target:
-    types: [opened, reopened, synchronize, edited, ready_for_review]
+    types: [opened, reopened, synchronize, edited, ready_for_review, closed]
 
 permissions:
   contents: read
@@ -11,4 +11,4 @@ permissions:
 
 jobs:
   verify:
-    uses: MyLeeJiEun/.github/.github/workflows/verify-group-version.yml@89e336008d818bfeda6a0f99b9922c8c794bfec7
+    uses: peeweep-test/.github/.github/workflows/verify-group-version.yml@test/peeweep-fixes-20261109
