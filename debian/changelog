@@ -1,3 +1,10 @@
+dde-control-center (6.8.3) unstable; urgency=medium
+
+  * chore: Sync release-line update template
+  * chore: Sync release-line guard template
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Tue, 17 Nov 2026 21:26:19 +0800
+
 dde-control-center (6.8.1) unstable; urgency=medium
 
   * Release 6.8.1
